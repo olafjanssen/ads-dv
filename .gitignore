@@ -1,2 +1,5 @@
+.idea
 Teacher/
-**/.ipynb_checkpoints/
+Notebooks/.ipynb_checkpoints
+Assignments/.ipynb_checkpoints
+
